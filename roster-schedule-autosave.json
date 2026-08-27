@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-27T23:45:47.603Z",
+  "exportedAt": "2026-08-27T23:50:44.841Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -511,6 +511,27 @@
           "date": "2026-08-27",
           "endDate": "",
           "text": "Ticket assignment",
+          "status": "completed"
+        },
+        {
+          "id": "t_9m9u79x5",
+          "date": "2026-08-27",
+          "endDate": "2026-08-28",
+          "text": "Grab Offline issue support",
+          "status": "in-progress"
+        },
+        {
+          "id": "t_jxuxu5c8",
+          "date": "2026-08-27",
+          "endDate": "",
+          "text": "Torisanwa Menux testing – All Items",
+          "status": "completed"
+        },
+        {
+          "id": "t_yd4y5b8u",
+          "date": "2026-08-27",
+          "endDate": "",
+          "text": "Ticket#24734 - WF MOA - Discrepancy of senior discount",
           "status": "completed"
         }
       ],
@@ -1486,8 +1507,8 @@
         "remarks": []
       },
       {
-        "store": "All V19 Stores",
-        "description": "Standard Plugin Testing",
+        "store": "New Store Standard",
+        "description": "Aloha Standardization - Standard Plugin Testing",
         "pointPerson": "Lawrence",
         "status": "In Progress",
         "startDate": "2026-08-27",
@@ -1501,8 +1522,8 @@
         ]
       },
       {
-        "store": "All V19 Stores",
-        "description": "Standard BIR Report Utility",
+        "store": "New Store Standard",
+        "description": "Aloha Standardization - Standard BIR Report Utility",
         "pointPerson": "Lawrence",
         "status": "Not Started",
         "startDate": "2026-09-01",
