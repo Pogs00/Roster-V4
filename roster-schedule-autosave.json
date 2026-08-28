@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-28T05:40:42.527Z",
+  "exportedAt": "2026-08-28T05:45:42.523Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -1395,6 +1395,10 @@
           {
             "date": "8/25/2026, 5:47:26 PM",
             "text": "Old revise date 08/25/2026"
+          },
+          {
+            "date": "8/28/2026, 1:41:26 PM",
+            "text": "History > Should display the time when it was ordered not the bumping time History > Should be auto display in history screen. No need to update Restore > Tapping the “Restore” button, inserts the data into the first column of the standard order screen - based on the order time Additional > Change the font size same with RST Additional > Should display every additional order in new column not retain in existing column UI > Make the horizontal line properly align Settings > should have modal for selecting manager and setting pin"
           }
         ]
       },
