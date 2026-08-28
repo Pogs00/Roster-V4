@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-28T06:00:42.683Z",
+  "exportedAt": "2026-08-28T06:05:42.640Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -738,13 +738,41 @@
           "date": "2026-08-28",
           "endDate": "",
           "text": "Ticket assignment",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_yugepnzr",
           "date": "2026-08-28",
           "endDate": "",
           "text": "Amphil manual creation for plugin",
+          "status": "not-started"
+        },
+        {
+          "id": "t_1vw0ujy0",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Support Meeting - PLK Update MenuX",
+          "status": "not-started"
+        },
+        {
+          "id": "t_vunw2i3n",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Wendys PITX Remote - Check issue",
+          "status": "not-started"
+        },
+        {
+          "id": "t_ykv9t9pm",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Torisanwa monitoring",
+          "status": "completed"
+        },
+        {
+          "id": "t_efh3nds6",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Yifang Circuit - BIR Audit ( Zread/BIR Report checking and Ejournal creation)",
           "status": "not-started"
         }
       ],
