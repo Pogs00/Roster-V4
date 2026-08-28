@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-28T01:30:47.446Z",
+  "exportedAt": "2026-08-28T01:35:48.442Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -762,7 +762,7 @@
           "id": "t_11h9ag7n",
           "date": "2026-08-28",
           "endDate": "",
-          "text": "Torikizoku Assist API meeting @2pm",
+          "text": "Torikizoku Assist API meeting @4pm",
           "status": "not-started"
         }
       ],
