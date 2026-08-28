@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-28T05:45:42.523Z",
+  "exportedAt": "2026-08-28T05:50:42.526Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -738,6 +738,13 @@
           "date": "2026-08-28",
           "endDate": "",
           "text": "Ticket assignment",
+          "status": "not-started"
+        },
+        {
+          "id": "t_yugepnzr",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Amphil manual creation for plugin",
           "status": "not-started"
         }
       ],
@@ -1519,7 +1526,12 @@
         "startDate": "2026-08-27",
         "endDate": "2026-09-01",
         "reviseEndDate": "",
-        "remarks": []
+        "remarks": [
+          {
+            "date": "8/28/2026, 1:49:30 PM",
+            "text": "Still not started by the dev team"
+          }
+        ]
       },
       {
         "store": "New Store Standard",
@@ -1533,6 +1545,10 @@
           {
             "date": "8/27/2026, 5:16:25 PM",
             "text": "Test Aloha QS v19.9 Plugin - Header and Footer - ok - SCD - ok - PWD - ok - Diplomat - ok - NACD - with error - Ejournal - ok - Receipt presentation - ok"
+          },
+          {
+            "date": "8/28/2026, 1:49:01 PM",
+            "text": "Waiting for S' Harmon fix for NACD"
           }
         ]
       },
