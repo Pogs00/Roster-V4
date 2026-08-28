@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-28T10:00:58.924Z",
+  "exportedAt": "2026-08-28T10:04:47.759Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -780,7 +780,36 @@
     },
     "m_00tz16bv|2026-08-28": {
       "tag": "office",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "t_xennax67",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "PLK check Price update activation",
+          "status": "completed"
+        },
+        {
+          "id": "t_i6lmie8z",
+          "date": "2026-08-28",
+          "endDate": "2026-09-02",
+          "text": "Create sign off for plk stores",
+          "status": "in-progress"
+        },
+        {
+          "id": "t_uagmmdsp",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "AI Training",
+          "status": "completed"
+        },
+        {
+          "id": "t_iv365o3z",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Team Meeting SOK and Update for BIR Report",
+          "status": "completed"
+        }
+      ],
       "comment": ""
     },
     "m_jig7aydp|2026-08-28": {
