@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-28T09:26:54.464Z",
+  "exportedAt": "2026-08-28T09:30:59.025Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -798,13 +798,20 @@
           "date": "2026-08-28",
           "endDate": "",
           "text": "Torikizoku Assist API meeting @4pm",
-          "status": "not-started"
+          "status": "ts_fnbk482o"
         },
         {
           "id": "t_vus4viti",
           "date": "2026-08-28",
           "endDate": "",
           "text": "Let's SOK design confirmation with S' Rob",
+          "status": "completed"
+        },
+        {
+          "id": "t_qk5rzg7k",
+          "date": "2026-08-28",
+          "endDate": "",
+          "text": "Create BRD for Flaro API",
           "status": "completed"
         }
       ],
