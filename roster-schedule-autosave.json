@@ -1,6 +1,6 @@
 {
   "app": "roster-team-schedule",
-  "exportedAt": "2026-08-29T02:59:46.706Z",
+  "exportedAt": "2026-08-29T03:04:46.710Z",
   "members": [
     {
       "id": "m_jig7aydp",
@@ -743,23 +743,23 @@
         {
           "id": "t_yugepnzr",
           "date": "2026-08-28",
-          "endDate": "",
+          "endDate": "2026-09-01",
           "text": "Amphil manual creation for plugin",
-          "status": "not-started"
+          "status": "in-progress"
         },
         {
           "id": "t_1vw0ujy0",
           "date": "2026-08-28",
           "endDate": "",
           "text": "Support Meeting - PLK Update MenuX",
-          "status": "not-started"
+          "status": "completed"
         },
         {
           "id": "t_vunw2i3n",
           "date": "2026-08-28",
-          "endDate": "",
+          "endDate": "2026-09-01",
           "text": "Wendys PITX Remote - Check issue",
-          "status": "not-started"
+          "status": "ts_6jxo1r4g"
         },
         {
           "id": "t_ykv9t9pm",
@@ -773,7 +773,7 @@
           "date": "2026-08-28",
           "endDate": "",
           "text": "Yifang Circuit - BIR Audit ( Zread/BIR Report checking and Ejournal creation)",
-          "status": "not-started"
+          "status": "completed"
         }
       ],
       "comment": ""
